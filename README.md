@@ -1,7 +1,7 @@
 ## Hi there 👋
-I'm Lucas!
-I'm attempting to learn arduino!
-⚡ Fun fact: No number before 1,000 contains the letter A.
+#### I'm Lucas!
+#### I'm attempting to learn arduino!
+#### ⚡ Fun fact: No number before 1,000 contains the letter A.
 
 <!--
 **LucasK5000/LucasK5000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
